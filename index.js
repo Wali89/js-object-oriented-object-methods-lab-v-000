@@ -6,7 +6,7 @@ function BoardMember (name, homeState, training){
     console.log("No, I must disagree");
   }
   this.approve = function(){
-    console.log("You can do that!")
+    console.log("You can do that!");
   }
 
 }
